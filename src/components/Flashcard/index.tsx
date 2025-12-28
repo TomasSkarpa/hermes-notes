@@ -5,6 +5,7 @@ import { Box, Text, Badge, VStack, HStack, Heading } from "@chakra-ui/react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Phrase } from "@/types";
 import { MessageCircle } from "lucide-react";
+import { useColorMode } from "~/shared/contexts/colorMode";
 
 interface FlashcardProps {
   phrase: Phrase;
@@ -15,6 +16,8 @@ const MotionBox = motion.create(Box);
 
 export function Flashcard({ phrase, onFlip }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
+  const { colorMode } = useColorMode();
+  const isDark = colorMode === "dark";
 
   const levelColor = phrase.level === "B1" ? "green" : "blue";
 
@@ -53,20 +56,28 @@ export function Flashcard({ phrase, onFlip }: FlashcardProps) {
           position="absolute"
           width="100%"
           height="100%"
-          bg="white"
-          _dark={{ bg: "white" }}
-          backgroundImage="repeating-linear-gradient(transparent 0 calc(1.5rem - 1px), rgba(200, 210, 220, 0.3) 0 1.5rem)"
+          bg={isDark ? "gray.800" : "white"}
+          backgroundImage={
+            isDark
+              ? "repeating-linear-gradient(transparent 0 calc(1.5rem - 1px), rgba(100, 110, 120, 0.2) 0 1.5rem)"
+              : "repeating-linear-gradient(transparent 0 calc(1.5rem - 1px), rgba(200, 210, 220, 0.3) 0 1.5rem)"
+          }
           borderRadius="xl"
-          boxShadow="0 0 0 1px rgba(0, 0, 0, 0.05) inset, 4px 8px 20px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1)"
+          boxShadow={
+            isDark
+              ? "0 0 0 1px rgba(255, 255, 255, 0.05) inset, 4px 8px 20px rgba(0, 0, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.3)"
+              : "0 0 0 1px rgba(0, 0, 0, 0.05) inset, 4px 8px 20px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1)"
+          }
           overflow="hidden"
+          style={{
+            backgroundColor: isDark ? "#1A202C" : undefined,
+            backfaceVisibility: "hidden",
+            transformStyle: "preserve-3d",
+          }}
           initial={{ rotateY: isFlipped ? -180 : 0 }}
           animate={{ rotateY: 0 }}
           exit={{ rotateY: isFlipped ? 180 : -180 }}
           transition={{ duration: 0.4, ease: "easeInOut" }}
-          style={{
-            backfaceVisibility: "hidden",
-            transformStyle: "preserve-3d",
-          }}
         >
           {/* Paper edge effect */}
           <Box
@@ -88,6 +99,7 @@ export function Flashcard({ phrase, onFlip }: FlashcardProps) {
             bottom={0}
             width="2px"
             bg="rgba(255, 100, 100, 0.2)"
+            _dark={{ bg: "rgba(255, 100, 100, 0.3)" }}
             pointerEvents="none"
             zIndex={0}
           />
@@ -144,11 +156,11 @@ export function Flashcard({ phrase, onFlip }: FlashcardProps) {
                     as="h2"
                     fontSize="3xl"
                     textAlign="left"
-                    color="gray.900"
-                    _dark={{ color: "gray.50" }}
+                    color={isDark ? "white" : "gray.900"}
                     fontWeight="600"
                     lineHeight="1.3"
                     fontFamily="'Georgia', 'Times New Roman', serif"
+                    style={{ color: isDark ? "#FFFFFF" : undefined }}
                   >
                     {phrase.english}
                   </Heading>

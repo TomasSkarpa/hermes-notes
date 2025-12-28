@@ -1,7 +1,8 @@
 "use client";
 
-import { Flex, Text, Box, Image, HStack } from "@chakra-ui/react";
+import { Flex, Text, Box, HStack } from "@chakra-ui/react";
 import Link from "next/link";
+import Image from "next/image";
 
 import ThemeButton from "../ThemeButton";
 
@@ -21,9 +22,11 @@ export default function Header({ title }: HeaderProps) {
           <HStack gap={3} align="center">
             <Image
               src="/logos/hermes-dude.png"
-              alt="HermesNotes"
-              height="50px"
-              width="50px"
+              alt="HermesNotes logo"
+              width={50}
+              height={50}
+              sizes="50px"
+              style={{ width: "50px", height: "50px" }}
             />
             <HStack gap={2} align="center">
               <Text
