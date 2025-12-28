@@ -1,0 +1,164 @@
+{
+  "phrases": [
+    {
+      "id": 1,
+      "english": "Break the ice",
+      "meaning": "To make people feel more comfortable in a social situation",
+      "example": "I told a joke to break the ice at the meeting.",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 2,
+      "english": "Hit the nail on the head",
+      "meaning": "To describe exactly what is causing a situation or problem",
+      "example": "You hit the nail on the head with your analysis of the problem.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 3,
+      "english": "Under the weather",
+      "meaning": "Feeling slightly ill",
+      "example": "I'm feeling a bit under the weather today, so I'll stay home.",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 4,
+      "english": "How have you been?",
+      "meaning": "A friendly greeting asking about someone's recent experiences",
+      "example": "Hey Sarah! How have you been? I haven't seen you in ages!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 5,
+      "english": "What brings you here?",
+      "meaning": "A polite way to ask why someone is at a particular place",
+      "example": "What brings you here today? Are you shopping for something special?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 6,
+      "english": "I couldn't agree more",
+      "meaning": "A strong way to express complete agreement",
+      "example": "You think we need more time? I couldn't agree more!",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 7,
+      "english": "That's a tough call",
+      "meaning": "A difficult decision to make",
+      "example": "Should we expand now or wait? That's a tough call.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 8,
+      "english": "Get the ball rolling",
+      "meaning": "To start an activity or process",
+      "example": "Let's get the ball rolling on this project next week.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 9,
+      "english": "Long time no see",
+      "meaning": "An informal greeting when you haven't seen someone for a while",
+      "example": "Hey John! Long time no see! How's everything going?",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 10,
+      "english": "I'm all ears",
+      "meaning": "Ready and eager to listen",
+      "example": "Tell me about your trip to Japan. I'm all ears!",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 11,
+      "english": "Beat around the bush",
+      "meaning": "To avoid talking about something directly",
+      "example": "Stop beating around the bush and tell me what happened.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 12,
+      "english": "The ball is in your court",
+      "meaning": "It's your turn to take action or make a decision",
+      "example": "I've made my proposal. Now the ball is in your court.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 13,
+      "english": "What do you do for a living?",
+      "meaning": "A polite way to ask about someone's job",
+      "example": "Nice to meet you! What do you do for a living?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 14,
+      "english": "I'm swamped with work",
+      "meaning": "Very busy with many tasks",
+      "example": "Sorry I can't meet today. I'm swamped with work this week.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 15,
+      "english": "It's not my cup of tea",
+      "meaning": "Something you don't particularly enjoy or like",
+      "example": "Horror movies? Not really my cup of tea, to be honest.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 16,
+      "english": "That makes sense",
+      "meaning": "I understand and agree with your reasoning",
+      "example": "You want to wait until spring to travel? Yeah, that makes sense.",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 17,
+      "english": "Could you elaborate on that?",
+      "meaning": "Can you provide more details or explanation?",
+      "example": "Could you elaborate on that point about the marketing strategy?",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 18,
+      "english": "It slipped my mind",
+      "meaning": "I forgot about it",
+      "example": "I'm sorry I didn't call you yesterday. It completely slipped my mind.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 19,
+      "english": "Let me sleep on it",
+      "meaning": "I need time to think about something before deciding",
+      "example": "That's an interesting offer. Let me sleep on it and get back to you tomorrow.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 20,
+      "english": "What's on your mind?",
+      "meaning": "What are you thinking about?",
+      "example": "You seem quiet today. What's on your mind?",
+      "level": "B1",
+      "category": "conversation-starters"
+    }
+  ]
+}

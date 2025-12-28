@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "idioms",
+      "name": "Idioms",
+      "description": "Common English idioms and expressions",
+      "color": "blue"
+    },
+    {
+      "id": "greetings",
+      "name": "Greetings",
+      "description": "Ways to greet people and start conversations",
+      "color": "green"
+    },
+    {
+      "id": "conversation-starters",
+      "name": "Conversation Starters",
+      "description": "Phrases to begin and maintain conversations",
+      "color": "purple"
+    },
+    {
+      "id": "agreement",
+      "name": "Agreement & Disagreement",
+      "description": "Express your opinion in conversations",
+      "color": "teal"
+    },
+    {
+      "id": "business",
+      "name": "Business English",
+      "description": "Professional workplace phrases",
+      "color": "orange"
+    },
+    {
+      "id": "casual",
+      "name": "Casual Conversation",
+      "description": "Informal everyday expressions",
+      "color": "pink"
+    },
+    {
+      "id": "preferences",
+      "name": "Preferences & Opinions",
+      "description": "Talk about likes and dislikes",
+      "color": "cyan"
+    },
+    {
+      "id": "decision-making",
+      "name": "Decision Making",
+      "description": "Phrases for making choices and decisions",
+      "color": "yellow"
+    }
+  ]
+}
