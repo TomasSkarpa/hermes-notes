@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Suspense } from "react";
 import {
   Box,
   Button,
@@ -24,7 +24,7 @@ import phrasesData from "@/data/phrases.json";
 import categoriesData from "@/data/categories.json";
 import { Phrase, ReviewQuality, Category } from "@/types";
 
-export default function StudyPage() {
+function StudyPageContent() {
   const searchParams = useSearchParams();
   const categoryFilter = searchParams.get("category");
   const levelFilter = searchParams.get("level") as "B1" | "B2" | null;
@@ -342,5 +342,21 @@ export default function StudyPage() {
         </Card.Root>
       </VStack>
     </Container>
+  );
+}
+
+export default function StudyPage() {
+  return (
+    <Suspense
+      fallback={
+        <Container maxW="container.lg" py={8}>
+          <VStack gap={4}>
+            <Heading>Loading...</Heading>
+          </VStack>
+        </Container>
+      }
+    >
+      <StudyPageContent />
+    </Suspense>
   );
 }

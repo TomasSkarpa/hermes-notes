@@ -14,8 +14,6 @@
 
 **HermesNotes** is a language learning web application that helps B1/B2 level English learners master essential phrases and idioms through spaced repetition flashcards. Built with Next.js, TypeScript, and Chakra UI.
 
----
-
 ## 🧩 About This Project
 
 Learn essential English phrases and idioms with spaced repetition. Perfect for intermediate learners who want to sound more natural in conversations.
@@ -28,14 +26,10 @@ Learn essential English phrases and idioms with spaced repetition. Perfect for i
 - 🎯 **B1/B2 Levels** – Content tailored for intermediate learners
 - 🌓 **Dark/Light Mode** – Comfortable learning experience
 
----
-
 ## 🧠 System Requirements
 
 - Node.js **22.x or later**
 - macOS, Windows (including WSL), and Linux supported
-
----
 
 ## 💻 Technologies Used
 
@@ -48,47 +42,13 @@ Learn essential English phrases and idioms with spaced repetition. Perfect for i
 - [Lint-staged](https://github.com/okonet/lint-staged)
 - [Cypress](https://www.cypress.io/)
 
----
-
----
-
-## ⚙️ Automatic Installation
-
-### 1. Create a new project
-
-```bash
-yarn create next-js-boilerplate
-# OR
-npx create-next-js-boilerplate
-```
-
-### 2. Initialize Husky
-
-```bash
-yarn husky-install
-# OR
-npm run husky-install
-```
-
-### 3. Run the development server
-
-```bash
-yarn dev
-# OR
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.  
-Edit `pages/index.tsx` — the page updates automatically as you save.
-
----
-
-## 🧰 Manual Installation
+## ⚙️ Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AstrOOnauta/next-js-boilerplate.git
+git clone https://github.com/TomasSkarpa/hermes-notes.git
+cd hermes-notes
 ```
 
 ### 2. Install dependencies
@@ -117,8 +77,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) and start building!
 
----
-
 ## 🧑‍💻 Terminal Commands
 
 | Command         | Description                      |
@@ -134,8 +92,6 @@ Open [http://localhost:3000](http://localhost:3000) and start building!
 | `cypress:open`  | Opens Cypress UI                 |
 | `cypress:run`   | Runs Cypress tests in CLI        |
 
----
-
 ## 💡 Why Use HermesNotes?
 
 - **Effective Learning** – Spaced repetition algorithm helps you retain phrases longer
@@ -144,32 +100,22 @@ Open [http://localhost:3000](http://localhost:3000) and start building!
 - **Modern UI** – Beautiful, responsive design with dark/light mode support
 - **Free & Open Source** – Learn English phrases without any cost
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
 Feel free to **open an issue** or **submit a pull request** to improve HermesNotes.
 
----
-
 ## 📜 License
 
 This project is licensed under the [ISC License](./LICENSE.md).
-
----
 
 ## 🙏 Attribution
 
 All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
----
-
 ## 📈 Keywords
 
 `language learning`, `english phrases`, `spaced repetition`, `flashcards`, `next.js`, `typescript`, `chakra-ui`, `b1 b2 english`, `idioms`, `english learning app`
-
----
 
 <div align="center">
     <br>
