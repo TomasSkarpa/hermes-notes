@@ -19,7 +19,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useColorMode } from "~/shared/contexts/colorMode";
 import categoriesData from "@/data/categories.json";
-import phrasesData from "@/data/phrases.json";
+import phrasesData from "@/data/phrases";
 import { Category, Phrase } from "@/types";
 
 export default function HomePage() {

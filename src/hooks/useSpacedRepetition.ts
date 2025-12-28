@@ -125,7 +125,7 @@ export function useSpacedRepetition(phrases: Phrase[]) {
   // Get phrases that are due for review
   const getDueForReview = (
     categoryFilter?: string,
-    levelFilter?: "B1" | "B2"
+    levelFilter?: "B1" | "B2" | "C1"
   ): Phrase[] => {
     const now = new Date();
 

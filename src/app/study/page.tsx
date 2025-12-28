@@ -20,14 +20,14 @@ import { useSearchParams } from "next/navigation";
 import { Flashcard } from "@/components/Flashcard";
 import { ReviewButtons } from "@/components/ReviewButtons";
 import { useSpacedRepetition } from "@/hooks/useSpacedRepetition";
-import phrasesData from "@/data/phrases.json";
+import phrasesData from "@/data/phrases";
 import categoriesData from "@/data/categories.json";
 import { Phrase, ReviewQuality, Category } from "@/types";
 
 function StudyPageContent() {
   const searchParams = useSearchParams();
   const categoryFilter = searchParams.get("category");
-  const levelFilter = searchParams.get("level") as "B1" | "B2" | null;
+  const levelFilter = searchParams.get("level") as "B1" | "B2" | "C1" | null;
 
   const { getDueForReview, recordReview, stats, isLoaded } =
     useSpacedRepetition(phrasesData.phrases as Phrase[]);

@@ -1,0 +1,884 @@
+{
+  "phrases": [
+    {
+      "id": 1,
+      "english": "I can't complain",
+      "meaning": "Things are going well, I have no major problems",
+      "example": "How's work going? I can't complain, everything's fine.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 2,
+      "english": "That's easier said than done",
+      "meaning": "It sounds simple but is actually difficult to do",
+      "example": "Just find a new job? That's easier said than done in this economy.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 3,
+      "english": "I'm feeling under the weather",
+      "meaning": "I'm feeling slightly ill or unwell",
+      "example": "I'm feeling a bit under the weather today, so I'll work from home.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 4,
+      "english": "I'll keep you posted",
+      "meaning": "I'll continue to inform you about developments",
+      "example": "I'll keep you posted on how the project is progressing.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 5,
+      "english": "It's not my cup of tea",
+      "meaning": "Something I don't particularly enjoy or like",
+      "example": "Horror movies? Not really my cup of tea, to be honest.",
+      "level": "B2",
+      "category": "preferences"
+    },
+    {
+      "id": 6,
+      "english": "Let's call it a day",
+      "meaning": "Let's stop working for today",
+      "example": "We've made good progress. Let's call it a day and continue tomorrow.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 7,
+      "english": "You've got a point there",
+      "meaning": "I agree with your argument or opinion",
+      "example": "You think we should wait? You've got a point there - rushing might cause problems.",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 8,
+      "english": "I'm on the same page",
+      "meaning": "I agree with you, we have the same understanding",
+      "example": "So you think we need more time too? I'm on the same page.",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 9,
+      "english": "Better safe than sorry",
+      "meaning": "It's better to be cautious than to take risks",
+      "example": "Should we bring an umbrella? Better safe than sorry - let's take it.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 10,
+      "english": "Don't bite off more than you can chew",
+      "meaning": "Don't take on more responsibilities than you can handle",
+      "example": "You're already working two jobs and studying? Don't bite off more than you can chew.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 11,
+      "english": "It's a blessing in disguise",
+      "meaning": "Something that seems bad but actually has good results",
+      "example": "Losing that job was a blessing in disguise - I found a much better one.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 12,
+      "english": "You can't have your cake and eat it too",
+      "meaning": "You can't have two good things that are mutually exclusive",
+      "example": "You want to travel and save money? You can't have your cake and eat it too.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 13,
+      "english": "It's no use crying over spilled milk",
+      "meaning": "There's no point in worrying about things that have already happened",
+      "example": "The mistake is made. It's no use crying over spilled milk - let's focus on fixing it.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 14,
+      "english": "Time flies when you're having fun",
+      "meaning": "Time passes quickly when you're enjoying yourself",
+      "example": "I can't believe it's already midnight! Time flies when you're having fun.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 15,
+      "english": "Rome wasn't built in a day",
+      "meaning": "Important things take time to accomplish",
+      "example": "Learning a language takes time. Rome wasn't built in a day.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 16,
+      "english": "Once in a blue moon",
+      "meaning": "Very rarely, almost never",
+      "example": "I only see my old friends once in a blue moon these days.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 17,
+      "english": "By the skin of your teeth",
+      "meaning": "Just barely, by a very narrow margin",
+      "example": "I passed the exam by the skin of my teeth - I got exactly the minimum score.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 18,
+      "english": "Every cloud has a silver lining",
+      "meaning": "Every bad situation has some positive aspect",
+      "example": "I lost my job, but every cloud has a silver lining - now I can pursue my dream career.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 19,
+      "english": "A blessing in disguise",
+      "meaning": "Something that seems bad but turns out to be good",
+      "example": "Missing the flight was a blessing in disguise - the next one was much cheaper.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 20,
+      "english": "To hit the nail on the head",
+      "meaning": "To describe exactly what is causing a situation or problem",
+      "example": "You hit the nail on the head with your analysis of the problem.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 21,
+      "english": "A dime a dozen",
+      "meaning": "Very common, not special or unique",
+      "example": "Coffee shops are a dime a dozen in this city.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 22,
+      "english": "To spill the beans",
+      "meaning": "To reveal a secret",
+      "example": "I wasn't supposed to tell you, but I spilled the beans about the surprise party.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 23,
+      "english": "To twist someone's arm",
+      "meaning": "To persuade someone to do something",
+      "example": "I didn't want to go, but she twisted my arm and I agreed.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 24,
+      "english": "To cut corners",
+      "meaning": "To do something in the easiest or cheapest way, often sacrificing quality",
+      "example": "They cut corners on the construction, and now the building has problems.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 25,
+      "english": "To get the ball rolling",
+      "meaning": "To start an activity or process",
+      "example": "Let's get the ball rolling on this project next week.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 26,
+      "english": "To go the extra mile",
+      "meaning": "To make an extra effort, to do more than is required",
+      "example": "She always goes the extra mile to help her customers.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 27,
+      "english": "To bite the bullet",
+      "meaning": "To face a difficult situation with courage",
+      "example": "I need to bite the bullet and have that difficult conversation with my boss.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 28,
+      "english": "To burn the midnight oil",
+      "meaning": "To work late into the night",
+      "example": "I had to burn the midnight oil to finish the report on time.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 29,
+      "english": "To call it a day",
+      "meaning": "To stop working for the day",
+      "example": "We've made good progress. Let's call it a day and continue tomorrow.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 30,
+      "english": "To get cold feet",
+      "meaning": "To become nervous and lose confidence about doing something",
+      "example": "I was going to ask for a raise, but I got cold feet at the last moment.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 31,
+      "english": "I couldn't agree more",
+      "meaning": "I completely agree with you",
+      "example": "You think we need more time? I couldn't agree more!",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 32,
+      "english": "I see where you're coming from",
+      "meaning": "I understand your point of view",
+      "example": "I see where you're coming from, but I think we should consider other options.",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 33,
+      "english": "That's a tough call",
+      "meaning": "A difficult decision to make",
+      "example": "Should we expand now or wait? That's a tough call.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 34,
+      "english": "I'm swamped with work",
+      "meaning": "Very busy with many tasks",
+      "example": "Sorry I can't meet today. I'm swamped with work this week.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 35,
+      "english": "Could you elaborate on that?",
+      "meaning": "Can you provide more details or explanation?",
+      "example": "Could you elaborate on that point about the marketing strategy?",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 36,
+      "english": "It slipped my mind",
+      "meaning": "I forgot about it",
+      "example": "I'm sorry I didn't call you yesterday. It completely slipped my mind.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 37,
+      "english": "Let me sleep on it",
+      "meaning": "I need time to think about something before deciding",
+      "example": "That's an interesting offer. Let me sleep on it and get back to you tomorrow.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 38,
+      "english": "Beat around the bush",
+      "meaning": "To avoid talking about something directly",
+      "example": "Stop beating around the bush and tell me what happened.",
+      "level": "B2",
+      "category": "idioms"
+    },
+    {
+      "id": 39,
+      "english": "The ball is in your court",
+      "meaning": "It's your turn to take action or make a decision",
+      "example": "I've made my proposal. Now the ball is in your court.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 40,
+      "english": "That makes sense",
+      "meaning": "I understand and agree with your reasoning",
+      "example": "You want to wait until spring to travel? Yeah, that makes sense.",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 41,
+      "english": "I'm on the fence",
+      "meaning": "I'm undecided, I can't choose between options",
+      "example": "I'm on the fence about whether to accept the job offer or not.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 42,
+      "english": "I'm torn between",
+      "meaning": "I can't decide between two options",
+      "example": "I'm torn between staying in the city or moving to the countryside.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 43,
+      "english": "I'm leaning towards",
+      "meaning": "I'm inclined to choose a particular option",
+      "example": "I'm leaning towards the blue option, but I'm not completely sure yet.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 44,
+      "english": "I'm having second thoughts",
+      "meaning": "I'm reconsidering my decision, I'm having doubts",
+      "example": "I said yes to the job, but now I'm having second thoughts.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 45,
+      "english": "I'm having a hard time",
+      "meaning": "I'm struggling with something",
+      "example": "I'm having a hard time understanding this concept.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 46,
+      "english": "I'm running out of time",
+      "meaning": "I don't have much time left",
+      "example": "I'm running out of time to finish this project.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 47,
+      "english": "I'm running out of patience",
+      "meaning": "I'm becoming frustrated, I'm losing my patience",
+      "example": "I'm running out of patience with this slow service.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 48,
+      "english": "I'm running out of ideas",
+      "meaning": "I don't have any more creative solutions or suggestions",
+      "example": "I'm running out of ideas for the presentation. Can you help?",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 49,
+      "english": "I'm running out of money",
+      "meaning": "I'm spending more than I have, I'm becoming poor",
+      "example": "I'm running out of money this month. I need to be more careful.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 50,
+      "english": "I'm running out of options",
+      "meaning": "I don't have many choices left",
+      "example": "I'm running out of options for where to live.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 51,
+      "english": "I'm looking forward to",
+      "meaning": "I'm excited about something that will happen in the future",
+      "example": "I'm really looking forward to the vacation next month.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 52,
+      "english": "I'm looking into",
+      "meaning": "I'm investigating or researching something",
+      "example": "I'm looking into different options for my career change.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 53,
+      "english": "I'm looking for",
+      "meaning": "I'm trying to find something",
+      "example": "I'm looking for a new apartment in the city center.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 54,
+      "english": "I'm working on",
+      "meaning": "I'm currently doing or developing something",
+      "example": "I'm working on a new project that should be finished next week.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 55,
+      "english": "I'm dealing with",
+      "meaning": "I'm handling or managing a situation",
+      "example": "I'm dealing with a difficult customer at the moment.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 56,
+      "english": "I'm struggling with",
+      "meaning": "I'm having difficulty with something",
+      "example": "I'm struggling with the new software. It's quite complicated.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 57,
+      "english": "I'm concerned about",
+      "meaning": "I'm worried about something",
+      "example": "I'm concerned about the deadline. We might not make it.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 58,
+      "english": "I'm excited about",
+      "meaning": "I'm very happy and enthusiastic about something",
+      "example": "I'm really excited about the new job opportunity.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 59,
+      "english": "I'm worried about",
+      "meaning": "I'm anxious or concerned about something",
+      "example": "I'm worried about the exam next week. I haven't studied enough.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 60,
+      "english": "I'm confident about",
+      "meaning": "I'm sure and certain about something",
+      "example": "I'm confident about my ability to complete this project on time.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 61,
+      "english": "I'm not sure about",
+      "meaning": "I'm uncertain about something",
+      "example": "I'm not sure about the exact date, but I think it's next Friday.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 62,
+      "english": "I'm certain about",
+      "meaning": "I'm completely sure about something",
+      "example": "I'm certain about my decision to change careers.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 63,
+      "english": "I'm serious about",
+      "meaning": "I'm committed and determined about something",
+      "example": "I'm serious about learning French. I practice every day.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 64,
+      "english": "I'm passionate about",
+      "meaning": "I have strong feelings and enthusiasm about something",
+      "example": "I'm really passionate about environmental protection.",
+      "level": "B2",
+      "category": "preferences"
+    },
+    {
+      "id": 65,
+      "english": "I'm skeptical about",
+      "meaning": "I have doubts about something, I'm not easily convinced",
+      "example": "I'm skeptical about the new policy. It might not work as intended.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 66,
+      "english": "I'm optimistic about",
+      "meaning": "I have positive expectations about something",
+      "example": "I'm optimistic about the future of renewable energy.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 67,
+      "english": "I'm pessimistic about",
+      "meaning": "I have negative expectations about something",
+      "example": "I'm pessimistic about our chances of winning without our best player.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 68,
+      "english": "I'm grateful for",
+      "meaning": "I feel thankful for something",
+      "example": "I'm really grateful for all the support you've given me.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 69,
+      "english": "I'm responsible for",
+      "meaning": "I'm in charge of or accountable for something",
+      "example": "I'm responsible for organizing the team meeting this week.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 70,
+      "english": "I'm known for",
+      "meaning": "I'm famous or recognized for something",
+      "example": "I'm known for being punctual and reliable.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 71,
+      "english": "I'm famous for",
+      "meaning": "I'm well-known for something",
+      "example": "This restaurant is famous for its authentic Italian cuisine.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 72,
+      "english": "I'm ready for",
+      "meaning": "I'm prepared for something",
+      "example": "I'm ready for the challenge. Let's get started!",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 73,
+      "english": "I'm not ready for",
+      "meaning": "I'm not prepared for something",
+      "example": "I'm not ready for such a big responsibility yet.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 74,
+      "english": "I'm prepared for",
+      "meaning": "I'm ready and have made plans for something",
+      "example": "I'm prepared for any questions they might ask in the interview.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 75,
+      "english": "I'm qualified for",
+      "meaning": "I have the skills or credentials needed for something",
+      "example": "I'm qualified for the position. I have all the required experience.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 76,
+      "english": "I'm eligible for",
+      "meaning": "I meet the requirements for something",
+      "example": "I'm eligible for the scholarship because of my academic performance.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 77,
+      "english": "I'm suitable for",
+      "meaning": "I'm appropriate or right for something",
+      "example": "I think I'm suitable for this role. I have the right background.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 78,
+      "english": "I'm grateful to",
+      "meaning": "I feel thankful to someone",
+      "example": "I'm really grateful to my teacher for all her help.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 79,
+      "english": "I'm committed to",
+      "meaning": "I'm dedicated and determined to do something",
+      "example": "I'm committed to finishing this project on time.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 80,
+      "english": "I'm dedicated to",
+      "meaning": "I'm devoted and focused on something",
+      "example": "I'm dedicated to improving my language skills.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 81,
+      "english": "I'm opposed to",
+      "meaning": "I'm against something, I disagree with it",
+      "example": "I'm opposed to the new policy. I think it's unfair.",
+      "level": "B2",
+      "category": "agreement"
+    },
+    {
+      "id": 82,
+      "english": "I'm accustomed to",
+      "meaning": "I'm used to something, I'm familiar with it",
+      "example": "I'm accustomed to working long hours. It doesn't bother me.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 83,
+      "english": "I'm addicted to",
+      "meaning": "I can't stop doing or using something",
+      "example": "I'm addicted to coffee. I can't start my day without it.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 84,
+      "english": "I'm allergic to",
+      "meaning": "I have a negative physical reaction to something",
+      "example": "I'm allergic to peanuts, so I can't eat that.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 85,
+      "english": "I'm sensitive to",
+      "meaning": "I react strongly to something",
+      "example": "I'm sensitive to criticism. It really affects me.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 86,
+      "english": "I'm immune to",
+      "meaning": "I'm not affected by something",
+      "example": "I'm immune to his charm. I know what he's really like.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 87,
+      "english": "I'm close to",
+      "meaning": "I'm near something, either physically or in terms of achievement",
+      "example": "I'm close to finishing my degree. Just one more semester!",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 88,
+      "english": "I'm similar to",
+      "meaning": "I'm like something or someone",
+      "example": "I'm similar to my father in many ways.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 89,
+      "english": "I'm different from",
+      "meaning": "I'm not the same as something or someone",
+      "example": "I'm different from my siblings. We have very different personalities.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 90,
+      "english": "I'm aware that",
+      "meaning": "I know that something is true",
+      "example": "I'm aware that this is a difficult situation, but we'll manage.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 91,
+      "english": "I'm not aware that",
+      "meaning": "I don't know that something is true",
+      "example": "I'm not aware that there were any changes to the schedule.",
+      "level": "B2",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 92,
+      "english": "I'm convinced that",
+      "meaning": "I'm certain that something is true",
+      "example": "I'm convinced that this is the right decision for our company.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 93,
+      "english": "I'm not convinced that",
+      "meaning": "I'm not sure that something is true",
+      "example": "I'm not convinced that this approach will work.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 94,
+      "english": "I'm sure that",
+      "meaning": "I'm certain that something is true",
+      "example": "I'm sure that we can solve this problem together.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 95,
+      "english": "I'm not sure that",
+      "meaning": "I'm uncertain whether something is true",
+      "example": "I'm not sure that this is the best solution.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 96,
+      "english": "I'm certain that",
+      "meaning": "I'm completely sure that something is true",
+      "example": "I'm certain that I left my keys on the kitchen table.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 97,
+      "english": "I'm not certain that",
+      "meaning": "I'm not completely sure that something is true",
+      "example": "I'm not certain that this will work, but it's worth trying.",
+      "level": "B2",
+      "category": "decision-making"
+    },
+    {
+      "id": 98,
+      "english": "I'm confident that",
+      "meaning": "I'm sure and certain that something will happen",
+      "example": "I'm confident that we'll meet the deadline.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 99,
+      "english": "I'm not confident that",
+      "meaning": "I'm not sure that something will happen",
+      "example": "I'm not confident that this plan will succeed.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 100,
+      "english": "I'm hopeful that",
+      "meaning": "I'm optimistic that something will happen",
+      "example": "I'm hopeful that we can reach an agreement soon.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 101,
+      "english": "I'm afraid that",
+      "meaning": "I'm worried or concerned that something might happen",
+      "example": "I'm afraid that we might not have enough time to finish.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 102,
+      "english": "I'm worried that",
+      "meaning": "I'm anxious or concerned that something might happen",
+      "example": "I'm worried that we won't be able to complete the project on time.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 103,
+      "english": "I'm concerned that",
+      "meaning": "I'm worried about something",
+      "example": "I'm concerned that the new policy might have negative effects.",
+      "level": "B2",
+      "category": "business"
+    },
+    {
+      "id": 104,
+      "english": "I'm delighted that",
+      "meaning": "I'm very happy that something happened",
+      "example": "I'm delighted that you got the job! Congratulations!",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 105,
+      "english": "I'm disappointed that",
+      "meaning": "I'm sad or let down that something happened",
+      "example": "I'm disappointed that the concert was cancelled.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 106,
+      "english": "I'm surprised that",
+      "meaning": "I didn't expect that something would happen",
+      "example": "I'm surprised that you're here already. I thought you'd be late.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 107,
+      "english": "I'm shocked that",
+      "meaning": "I'm very surprised and upset that something happened",
+      "example": "I'm shocked that they decided to close the factory.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 108,
+      "english": "I'm relieved that",
+      "meaning": "I feel better because something good happened or something bad didn't happen",
+      "example": "I'm relieved that the test results came back negative.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 109,
+      "english": "I'm grateful that",
+      "meaning": "I feel thankful that something happened",
+      "example": "I'm grateful that you were able to help me when I needed it.",
+      "level": "B2",
+      "category": "casual"
+    },
+    {
+      "id": 110,
+      "english": "I'm sorry that",
+      "meaning": "I apologize or feel bad that something happened",
+      "example": "I'm sorry that I couldn't make it to your party.",
+      "level": "B2",
+      "category": "casual"
+    }
+  ]
+}

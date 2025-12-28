@@ -1,0 +1,884 @@
+{
+  "phrases": [
+    {
+      "id": 1,
+      "english": "To be on cloud nine",
+      "meaning": "To be extremely happy or elated",
+      "example": "When she got the promotion, she was on cloud nine for days.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 2,
+      "english": "To add fuel to the fire",
+      "meaning": "To make a bad situation worse",
+      "example": "His angry response only added fuel to the fire of the argument.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 3,
+      "english": "To be in hot water",
+      "meaning": "To be in trouble or facing difficulties",
+      "example": "He's in hot water with his boss after missing the deadline.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 4,
+      "english": "To pull someone's leg",
+      "meaning": "To tease or joke with someone",
+      "example": "I'm just pulling your leg! Of course I believe you.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 5,
+      "english": "To let the cat out of the bag",
+      "meaning": "To reveal a secret accidentally",
+      "example": "I accidentally let the cat out of the bag about the surprise party.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 6,
+      "english": "To read between the lines",
+      "meaning": "To understand the hidden or implied meaning",
+      "example": "If you read between the lines, you'll see he's not happy with the decision.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 7,
+      "english": "To take something with a grain of salt",
+      "meaning": "To be skeptical about something, not to believe it completely",
+      "example": "Take his advice with a grain of salt - he tends to exaggerate.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 8,
+      "english": "To hit the sack",
+      "meaning": "To go to bed",
+      "example": "I'm exhausted. I'm going to hit the sack early tonight.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 9,
+      "english": "To face the music",
+      "meaning": "To accept the consequences of one's actions",
+      "example": "You made a mistake, and now you have to face the music.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 10,
+      "english": "To be in the same boat",
+      "meaning": "To be in the same difficult situation as someone else",
+      "example": "We're all in the same boat - none of us know what to do.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 11,
+      "english": "To bite off more than one can chew",
+      "meaning": "To take on more responsibilities than one can handle",
+      "example": "I think I bit off more than I can chew with this project.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 12,
+      "english": "To break the ice",
+      "meaning": "To make people feel more comfortable in a social situation",
+      "example": "I told a joke to break the ice at the meeting.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 13,
+      "english": "To take the bull by the horns",
+      "meaning": "To confront a problem directly and decisively",
+      "example": "It's time to take the bull by the horns and address this issue head-on.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 14,
+      "english": "To play it by ear",
+      "meaning": "To decide how to act based on the situation as it develops",
+      "example": "We don't have a fixed plan. Let's just play it by ear.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 15,
+      "english": "To run out of steam",
+      "meaning": "To lose energy or momentum",
+      "example": "The project started well, but we've run out of steam recently.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 16,
+      "english": "To set the record straight",
+      "meaning": "To correct a misunderstanding or false information",
+      "example": "I need to set the record straight about what actually happened.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 17,
+      "english": "To keep someone at arm's length",
+      "meaning": "To avoid becoming too close or friendly with someone",
+      "example": "I keep him at arm's length because I don't trust him completely.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 18,
+      "english": "To see eye to eye",
+      "meaning": "To agree with someone",
+      "example": "We don't always see eye to eye, but we respect each other's opinions.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 19,
+      "english": "To weather the storm",
+      "meaning": "To survive a difficult period",
+      "example": "The company managed to weather the storm during the economic crisis.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 20,
+      "english": "To jump on the bandwagon",
+      "meaning": "To join a popular trend or activity",
+      "example": "Everyone is investing in cryptocurrency now, but I won't jump on the bandwagon.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 21,
+      "english": "To be a blessing in disguise",
+      "meaning": "Something that seems bad but turns out to be good",
+      "example": "Losing that job was a blessing in disguise - I found a much better one.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 22,
+      "english": "To take the plunge",
+      "meaning": "To take a risk and do something significant",
+      "example": "After years of thinking about it, I finally took the plunge and started my own business.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 23,
+      "english": "To keep one's fingers crossed",
+      "meaning": "To hope for good luck or success",
+      "example": "I have my job interview tomorrow. Fingers crossed!",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 24,
+      "english": "To lose one's touch",
+      "meaning": "To lose one's skill or ability",
+      "example": "I used to be good at tennis, but I've lost my touch.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 25,
+      "english": "To make ends meet",
+      "meaning": "To have enough money to cover basic expenses",
+      "example": "It's difficult to make ends meet with such a low salary.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 26,
+      "english": "To go down in flames",
+      "meaning": "To fail spectacularly",
+      "example": "The project went down in flames when the main investor pulled out.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 27,
+      "english": "To make a long story short",
+      "meaning": "To summarize, to tell the main points briefly",
+      "example": "To make a long story short, we decided to cancel the trip.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 28,
+      "english": "To put all one's eggs in one basket",
+      "meaning": "To risk everything on a single opportunity",
+      "example": "Don't put all your eggs in one basket - diversify your investments.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 29,
+      "english": "To take something for granted",
+      "meaning": "To not appreciate something because you assume it will always be available",
+      "example": "We often take our health for granted until we lose it.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 30,
+      "english": "To go back to the drawing board",
+      "meaning": "To start over, to rethink a plan from the beginning",
+      "example": "The design was rejected, so we have to go back to the drawing board.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 31,
+      "english": "To hit the ground running",
+      "meaning": "To start something immediately and effectively",
+      "example": "The new manager hit the ground running and made immediate improvements.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 32,
+      "english": "To be over the moon",
+      "meaning": "To be extremely happy",
+      "example": "She was over the moon when she found out she got the scholarship.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 33,
+      "english": "To read someone like a book",
+      "meaning": "To understand someone's thoughts or feelings easily",
+      "example": "I can read you like a book - I know you're nervous about the presentation.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 34,
+      "english": "To leave no stone unturned",
+      "meaning": "To try every possible way to achieve something",
+      "example": "We'll leave no stone unturned in our search for the truth.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 35,
+      "english": "To call the shots",
+      "meaning": "To be in charge, to make the decisions",
+      "example": "In this company, the CEO calls all the shots.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 36,
+      "english": "To bite the hand that feeds you",
+      "meaning": "To harm or be ungrateful to someone who helps you",
+      "example": "By criticizing his mentor publicly, he bit the hand that fed him.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 37,
+      "english": "To keep a low profile",
+      "meaning": "To avoid attracting attention",
+      "example": "After the scandal, he kept a low profile for months.",
+      "level": "C1",
+      "category": "idioms"
+    },
+    {
+      "id": 38,
+      "english": "To move the goalposts",
+      "meaning": "To change the rules or requirements during a process",
+      "example": "They keep moving the goalposts, making it impossible to meet their expectations.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 39,
+      "english": "To step up one's game",
+      "meaning": "To improve one's performance or effort",
+      "example": "If you want to compete at this level, you need to step up your game.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 40,
+      "english": "To be on the fence",
+      "meaning": "To be undecided, unable to choose between options",
+      "example": "I'm on the fence about whether to accept the job offer or not.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 41,
+      "english": "I'm inclined to believe",
+      "meaning": "I tend to think or believe something",
+      "example": "I'm inclined to believe that the new policy will be effective.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 42,
+      "english": "I'm of the opinion that",
+      "meaning": "I believe that, I think that",
+      "example": "I'm of the opinion that we should wait before making a decision.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 43,
+      "english": "I'm under the impression that",
+      "meaning": "I believe that something is true",
+      "example": "I'm under the impression that the meeting was cancelled.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 44,
+      "english": "I'm led to believe that",
+      "meaning": "I have been given information that makes me think something",
+      "example": "I'm led to believe that the project will be completed on time.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 45,
+      "english": "I'm given to understand that",
+      "meaning": "I have been informed that",
+      "example": "I'm given to understand that there will be changes to the schedule.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 46,
+      "english": "I'm bound to say that",
+      "meaning": "I feel I must say that",
+      "example": "I'm bound to say that I disagree with this approach.",
+      "level": "C1",
+      "category": "agreement"
+    },
+    {
+      "id": 47,
+      "english": "I'm compelled to mention that",
+      "meaning": "I feel I must mention that",
+      "example": "I'm compelled to mention that this decision could have serious consequences.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 48,
+      "english": "I'm obliged to point out that",
+      "meaning": "I feel I must point out that",
+      "example": "I'm obliged to point out that we're running behind schedule.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 49,
+      "english": "I'm forced to conclude that",
+      "meaning": "I must conclude that",
+      "example": "After reviewing all the evidence, I'm forced to conclude that we need a different approach.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 50,
+      "english": "I'm reluctant to admit that",
+      "meaning": "I don't want to admit that, but I must",
+      "example": "I'm reluctant to admit that I was wrong about this.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 51,
+      "english": "I'm hesitant to say that",
+      "meaning": "I'm uncertain about saying that",
+      "example": "I'm hesitant to say that this will work, but it's worth trying.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 52,
+      "english": "I'm prone to think that",
+      "meaning": "I tend to think that",
+      "example": "I'm prone to think that we're overcomplicating this issue.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 53,
+      "english": "I'm apt to believe that",
+      "meaning": "I'm likely to believe that",
+      "example": "I'm apt to believe that the situation will improve soon.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 54,
+      "english": "I'm liable to think that",
+      "meaning": "I'm likely to think that",
+      "example": "I'm liable to think that we need more time to consider this properly.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 55,
+      "english": "I'm disposed to agree that",
+      "meaning": "I'm inclined to agree that",
+      "example": "I'm disposed to agree that this is the best course of action.",
+      "level": "C1",
+      "category": "agreement"
+    },
+    {
+      "id": 56,
+      "english": "I'm predisposed to think that",
+      "meaning": "I'm inclined to think that",
+      "example": "I'm predisposed to think that this approach will be more effective.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 57,
+      "english": "I'm not in a position to",
+      "meaning": "I'm not able to, I don't have the authority or ability to",
+      "example": "I'm not in a position to make that decision without consulting my supervisor.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 58,
+      "english": "I'm in no position to",
+      "meaning": "I'm not able to, I don't have the right to",
+      "example": "I'm in no position to criticize others when I make mistakes too.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 59,
+      "english": "I'm in a position to",
+      "meaning": "I'm able to, I have the authority or ability to",
+      "example": "I'm in a position to offer you a better deal if you're interested.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 60,
+      "english": "I'm not at liberty to",
+      "meaning": "I'm not allowed to, I don't have permission to",
+      "example": "I'm not at liberty to discuss the details of the contract.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 61,
+      "english": "I'm at liberty to",
+      "meaning": "I'm allowed to, I have permission to",
+      "example": "I'm at liberty to share this information with you now.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 62,
+      "english": "I'm not in the habit of",
+      "meaning": "I don't usually do something",
+      "example": "I'm not in the habit of making promises I can't keep.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 63,
+      "english": "I'm in the habit of",
+      "meaning": "I usually do something",
+      "example": "I'm in the habit of reading before I go to sleep.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 64,
+      "english": "I'm not accustomed to",
+      "meaning": "I'm not used to something",
+      "example": "I'm not accustomed to working such long hours.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 65,
+      "english": "I'm accustomed to",
+      "meaning": "I'm used to something",
+      "example": "I'm accustomed to dealing with difficult situations.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 66,
+      "english": "I'm not familiar with",
+      "meaning": "I don't know much about something",
+      "example": "I'm not familiar with the new software system.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 67,
+      "english": "I'm familiar with",
+      "meaning": "I know about something",
+      "example": "I'm familiar with the procedures, so I can help you.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 68,
+      "english": "I'm not acquainted with",
+      "meaning": "I don't know something or someone",
+      "example": "I'm not acquainted with the details of the case.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 69,
+      "english": "I'm acquainted with",
+      "meaning": "I know something or someone",
+      "example": "I'm acquainted with the manager, so I can introduce you.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 70,
+      "english": "I'm not versed in",
+      "meaning": "I don't have knowledge or skill in something",
+      "example": "I'm not versed in financial matters, so I'll need to consult an expert.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 71,
+      "english": "I'm versed in",
+      "meaning": "I have knowledge or skill in something",
+      "example": "I'm well versed in international law, so I can help with this case.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 72,
+      "english": "I'm not proficient in",
+      "meaning": "I'm not skilled in something",
+      "example": "I'm not proficient in Spanish, but I can understand basic conversations.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 73,
+      "english": "I'm proficient in",
+      "meaning": "I'm skilled in something",
+      "example": "I'm proficient in several programming languages.",
+      "level": "C1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 74,
+      "english": "I'm not competent in",
+      "meaning": "I don't have the ability to do something",
+      "example": "I'm not competent in handling such complex negotiations.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 75,
+      "english": "I'm competent in",
+      "meaning": "I have the ability to do something",
+      "example": "I'm competent in managing large teams and complex projects.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 76,
+      "english": "I'm not qualified to",
+      "meaning": "I don't have the credentials or skills to do something",
+      "example": "I'm not qualified to give medical advice, so please consult a doctor.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 77,
+      "english": "I'm qualified to",
+      "meaning": "I have the credentials or skills to do something",
+      "example": "I'm qualified to teach English as a second language.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 78,
+      "english": "I'm not authorized to",
+      "meaning": "I don't have permission to do something",
+      "example": "I'm not authorized to approve expenses over a certain amount.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 79,
+      "english": "I'm authorized to",
+      "meaning": "I have permission to do something",
+      "example": "I'm authorized to sign contracts on behalf of the company.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 80,
+      "english": "I'm not entitled to",
+      "meaning": "I don't have the right to something",
+      "example": "I'm not entitled to a refund because I used the product.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 81,
+      "english": "I'm entitled to",
+      "meaning": "I have the right to something",
+      "example": "I'm entitled to a break after working for four hours.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 82,
+      "english": "I'm not obliged to",
+      "meaning": "I'm not required to do something",
+      "example": "I'm not obliged to attend the meeting, but I'll go anyway.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 83,
+      "english": "I'm obliged to",
+      "meaning": "I'm required to do something",
+      "example": "I'm obliged to report any safety violations to management.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 84,
+      "english": "I'm not bound to",
+      "meaning": "I'm not required to do something",
+      "example": "I'm not bound to accept the first offer, so I'll wait for better terms.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 85,
+      "english": "I'm bound to",
+      "meaning": "I'm required to do something",
+      "example": "I'm bound by contract to complete this project by the end of the month.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 86,
+      "english": "I'm not committed to",
+      "meaning": "I'm not dedicated to something",
+      "example": "I'm not committed to this plan yet - I'm still considering alternatives.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 87,
+      "english": "I'm committed to",
+      "meaning": "I'm dedicated to something",
+      "example": "I'm committed to improving the quality of our services.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 88,
+      "english": "I'm not dedicated to",
+      "meaning": "I'm not devoted to something",
+      "example": "I'm not dedicated to this approach - I think we should try something else.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 89,
+      "english": "I'm dedicated to",
+      "meaning": "I'm devoted to something",
+      "example": "I'm dedicated to helping my team succeed.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 90,
+      "english": "I'm not devoted to",
+      "meaning": "I'm not committed to something",
+      "example": "I'm not devoted to this idea - I'm open to other suggestions.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 91,
+      "english": "I'm devoted to",
+      "meaning": "I'm committed to something",
+      "example": "I'm devoted to my family and my work.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 92,
+      "english": "I'm not attached to",
+      "meaning": "I'm not emotionally connected to something",
+      "example": "I'm not attached to this plan - we can change it if needed.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 93,
+      "english": "I'm attached to",
+      "meaning": "I'm emotionally connected to something",
+      "example": "I'm very attached to this old house - I've lived here for 20 years.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 94,
+      "english": "I'm not partial to",
+      "meaning": "I don't prefer something",
+      "example": "I'm not partial to spicy food - I prefer milder flavors.",
+      "level": "C1",
+      "category": "preferences"
+    },
+    {
+      "id": 95,
+      "english": "I'm partial to",
+      "meaning": "I prefer something",
+      "example": "I'm partial to Italian cuisine - it's my favorite.",
+      "level": "C1",
+      "category": "preferences"
+    },
+    {
+      "id": 96,
+      "english": "I'm not susceptible to",
+      "meaning": "I'm not easily influenced by something",
+      "example": "I'm not susceptible to peer pressure - I make my own decisions.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 97,
+      "english": "I'm susceptible to",
+      "meaning": "I'm easily influenced by something",
+      "example": "I'm susceptible to colds in the winter - I always get sick.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 98,
+      "english": "I'm not immune to",
+      "meaning": "I'm not protected from something",
+      "example": "I'm not immune to criticism - it still affects me sometimes.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 99,
+      "english": "I'm immune to",
+      "meaning": "I'm protected from something",
+      "example": "I'm immune to his charm - I know what he's really like.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 100,
+      "english": "I'm not resistant to",
+      "meaning": "I'm not able to withstand something",
+      "example": "I'm not resistant to change - I adapt quickly to new situations.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 101,
+      "english": "I'm resistant to",
+      "meaning": "I'm able to withstand something",
+      "example": "I'm resistant to stress - I can handle pressure well.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 102,
+      "english": "I'm not vulnerable to",
+      "meaning": "I'm not easily harmed by something",
+      "example": "I'm not vulnerable to manipulation - I can see through people's motives.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 103,
+      "english": "I'm vulnerable to",
+      "meaning": "I'm easily harmed by something",
+      "example": "I'm vulnerable to flattery - I like to hear positive things about myself.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 104,
+      "english": "I'm not prone to",
+      "meaning": "I don't tend to do something",
+      "example": "I'm not prone to making hasty decisions - I think things through carefully.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 105,
+      "english": "I'm prone to",
+      "meaning": "I tend to do something",
+      "example": "I'm prone to overthinking things - I analyze everything too much.",
+      "level": "C1",
+      "category": "casual"
+    },
+    {
+      "id": 106,
+      "english": "I'm not inclined to",
+      "meaning": "I don't tend to do something",
+      "example": "I'm not inclined to trust people immediately - I need to know them first.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 107,
+      "english": "I'm inclined to",
+      "meaning": "I tend to do something",
+      "example": "I'm inclined to agree with your proposal - it sounds reasonable.",
+      "level": "C1",
+      "category": "agreement"
+    },
+    {
+      "id": 108,
+      "english": "I'm not disposed to",
+      "meaning": "I'm not willing to do something",
+      "example": "I'm not disposed to compromise on this issue - it's too important.",
+      "level": "C1",
+      "category": "decision-making"
+    },
+    {
+      "id": 109,
+      "english": "I'm disposed to",
+      "meaning": "I'm willing to do something",
+      "example": "I'm disposed to help you with this project if you need assistance.",
+      "level": "C1",
+      "category": "business"
+    },
+    {
+      "id": 110,
+      "english": "I'm not predisposed to",
+      "meaning": "I don't have a tendency to do something",
+      "example": "I'm not predisposed to taking risks - I prefer a more cautious approach.",
+      "level": "C1",
+      "category": "decision-making"
+    }
+  ]
+}

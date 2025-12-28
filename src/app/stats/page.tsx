@@ -25,7 +25,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { useSpacedRepetition } from "@/hooks/useSpacedRepetition";
-import phrasesData from "@/data/phrases.json";
+import phrasesData from "@/data/phrases";
 import categoriesData from "@/data/categories.json";
 import { Category, Phrase } from "@/types";
 

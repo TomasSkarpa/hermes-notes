@@ -1,0 +1,884 @@
+{
+  "phrases": [
+    {
+      "id": 1,
+      "english": "How's it going?",
+      "meaning": "A casual greeting asking about someone's current situation or well-being",
+      "example": "Hey Mark! How's it going? I haven't seen you in a while.",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 2,
+      "english": "What have you been up to?",
+      "meaning": "A friendly way to ask what someone has been doing recently",
+      "example": "Long time no see! What have you been up to these days?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 3,
+      "english": "Long time no see",
+      "meaning": "An informal greeting when you haven't seen someone for a while",
+      "example": "Hey John! Long time no see! How's everything going?",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 4,
+      "english": "Can you give me a hand?",
+      "meaning": "Can you help me with something?",
+      "example": "This box is heavy. Can you give me a hand moving it?",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 5,
+      "english": "I'm afraid I don't understand",
+      "meaning": "A polite way to say you don't understand something",
+      "example": "I'm afraid I don't understand what you mean by that.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 6,
+      "english": "Could you repeat that, please?",
+      "meaning": "A polite request to say something again",
+      "example": "Sorry, I didn't catch that. Could you repeat that, please?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 7,
+      "english": "I'd like to make a reservation",
+      "meaning": "I want to book something in advance (restaurant, hotel, etc.)",
+      "example": "I'd like to make a reservation for two people at 7 PM tonight.",
+      "level": "B1",
+      "category": "business"
+    },
+    {
+      "id": 8,
+      "english": "How much does it cost?",
+      "meaning": "What is the price?",
+      "example": "This looks nice. How much does it cost?",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 9,
+      "english": "What do you do for a living?",
+      "meaning": "A polite way to ask about someone's job or profession",
+      "example": "Nice to meet you! What do you do for a living?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 10,
+      "english": "I'm looking forward to it",
+      "meaning": "I'm excited about something that will happen in the future",
+      "example": "The concert is next week. I'm really looking forward to it!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 11,
+      "english": "That sounds like fun",
+      "meaning": "That seems enjoyable or interesting",
+      "example": "We're going to the beach this weekend. That sounds like fun!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 12,
+      "english": "Sorry, I didn't catch that",
+      "meaning": "I didn't hear or understand what you said",
+      "example": "Sorry, I didn't catch that. Could you speak a bit louder?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 13,
+      "english": "No worries",
+      "meaning": "It's okay, don't worry about it",
+      "example": "Thanks for helping me. No worries, happy to help!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 14,
+      "english": "Take care",
+      "meaning": "A friendly way to say goodbye, wishing someone well",
+      "example": "I have to go now. Take care and see you soon!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 15,
+      "english": "I'm just kidding",
+      "meaning": "I was joking, I didn't mean it seriously",
+      "example": "You believed that? I'm just kidding!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 16,
+      "english": "That's a good idea",
+      "meaning": "I think your suggestion is good",
+      "example": "Let's meet at the coffee shop. That's a good idea!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 17,
+      "english": "It doesn't matter",
+      "meaning": "It's not important, it's not a problem",
+      "example": "Which restaurant should we go to? It doesn't matter to me.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 18,
+      "english": "I agree",
+      "meaning": "I have the same opinion",
+      "example": "I think we should start earlier. I agree completely.",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 19,
+      "english": "I'm not sure about that",
+      "meaning": "I have doubts or uncertainty about something",
+      "example": "Are you sure this is the right way? I'm not sure about that.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 20,
+      "english": "What's the matter?",
+      "meaning": "What's wrong? What's the problem?",
+      "example": "You look upset. What's the matter?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 21,
+      "english": "Better late than never",
+      "meaning": "It's better to do something late than to never do it at all",
+      "example": "I finally started learning Spanish at 40. Better late than never!",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 22,
+      "english": "Actions speak louder than words",
+      "meaning": "What you do is more important than what you say",
+      "example": "Don't just promise to help - actions speak louder than words.",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 23,
+      "english": "Don't judge a book by its cover",
+      "meaning": "Don't form an opinion based only on appearance",
+      "example": "The restaurant looks small, but don't judge a book by its cover - the food is amazing!",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 24,
+      "english": "Practice makes perfect",
+      "meaning": "Repeating something improves your skill",
+      "example": "Keep practicing the piano. Practice makes perfect!",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 25,
+      "english": "Easy come, easy go",
+      "meaning": "Things that are easily obtained are easily lost",
+      "example": "I won the money quickly, but spent it just as fast. Easy come, easy go.",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 26,
+      "english": "A piece of cake",
+      "meaning": "Something very easy to do",
+      "example": "The exam was a piece of cake. I finished it in 30 minutes.",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 27,
+      "english": "Break a leg!",
+      "meaning": "Good luck! (used especially before a performance)",
+      "example": "You have your presentation today? Break a leg!",
+      "level": "B1",
+      "category": "idioms"
+    },
+    {
+      "id": 28,
+      "english": "It's up to you",
+      "meaning": "You can decide, it's your choice",
+      "example": "Should we go to the movies or stay home? It's up to you.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 29,
+      "english": "Fingers crossed",
+      "meaning": "Hoping for good luck or success",
+      "example": "I have my job interview tomorrow. Fingers crossed!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 30,
+      "english": "Hang in there",
+      "meaning": "Keep trying, don't give up",
+      "example": "I know work is tough right now, but hang in there!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 31,
+      "english": "How are you doing?",
+      "meaning": "A common greeting asking about someone's well-being",
+      "example": "Hi Sarah! How are you doing? I haven't seen you in weeks.",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 32,
+      "english": "Nice to meet you",
+      "meaning": "A polite greeting when meeting someone for the first time",
+      "example": "Hi, I'm Tom. Nice to meet you!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 33,
+      "english": "See you later",
+      "meaning": "A casual way to say goodbye",
+      "example": "I have to go now. See you later!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 34,
+      "english": "What's up?",
+      "meaning": "A very casual greeting asking what's happening",
+      "example": "Hey! What's up? Want to grab some coffee?",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 35,
+      "english": "I'm fine, thanks",
+      "meaning": "A response to 'How are you?' meaning you're doing well",
+      "example": "How are you? I'm fine, thanks. And you?",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 36,
+      "english": "Could you help me?",
+      "meaning": "A polite request for assistance",
+      "example": "I'm lost. Could you help me find the train station?",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 37,
+      "english": "I don't know",
+      "meaning": "I don't have the information or answer",
+      "example": "When does the movie start? I don't know, let me check.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 38,
+      "english": "I think so",
+      "meaning": "I believe that's correct, but I'm not completely sure",
+      "example": "Is the meeting at 3 PM? I think so, but let me confirm.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 39,
+      "english": "That's right",
+      "meaning": "You are correct",
+      "example": "So we need to finish by Friday? That's right.",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 40,
+      "english": "You're welcome",
+      "meaning": "A polite response to 'thank you'",
+      "example": "Thanks for your help! You're welcome!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 41,
+      "english": "Excuse me",
+      "meaning": "Used to get someone's attention or apologize",
+      "example": "Excuse me, could you tell me where the restroom is?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 42,
+      "english": "I'm sorry",
+      "meaning": "An apology for something you did wrong",
+      "example": "I'm sorry I'm late. The traffic was terrible.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 43,
+      "english": "Never mind",
+      "meaning": "Don't worry about it, it's not important",
+      "example": "Did you want to ask me something? Never mind, it's not important.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 44,
+      "english": "Of course",
+      "meaning": "Certainly, definitely",
+      "example": "Can you help me with this? Of course, I'd be happy to!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 45,
+      "english": "I see",
+      "meaning": "I understand",
+      "example": "So you're saying we should wait? I see, that makes sense.",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 46,
+      "english": "Let me think",
+      "meaning": "I need a moment to consider or remember",
+      "example": "What's the best way to get there? Let me think...",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 47,
+      "english": "I guess so",
+      "meaning": "I suppose that's true, but I'm not certain",
+      "example": "Should we go now? I guess so, if everyone is ready.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 48,
+      "english": "That's too bad",
+      "meaning": "That's unfortunate, I'm sorry to hear that",
+      "example": "I can't come to the party. That's too bad, we'll miss you!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 49,
+      "english": "Good luck",
+      "meaning": "I hope you succeed",
+      "example": "You have your exam tomorrow? Good luck!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 50,
+      "english": "Have a good day",
+      "meaning": "A friendly farewell wishing someone well",
+      "example": "Thanks for shopping with us. Have a good day!",
+      "level": "B1",
+      "category": "greetings"
+    },
+    {
+      "id": 51,
+      "english": "What do you think?",
+      "meaning": "Asking for someone's opinion",
+      "example": "I'm thinking of buying this car. What do you think?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 52,
+      "english": "I have no idea",
+      "meaning": "I don't know at all",
+      "example": "Where did I put my keys? I have no idea!",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 53,
+      "english": "That's interesting",
+      "meaning": "That catches my attention, I want to know more",
+      "example": "I'm learning to play the guitar. That's interesting! How long have you been learning?",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 54,
+      "english": "I'm not sure",
+      "meaning": "I don't know for certain",
+      "example": "Will it rain today? I'm not sure, but it looks cloudy.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 55,
+      "english": "That's true",
+      "meaning": "You're correct, I agree",
+      "example": "The weather is really nice today. That's true, perfect for a walk!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 56,
+      "english": "I don't think so",
+      "meaning": "I believe that's not correct",
+      "example": "Is the store open on Sundays? I don't think so, but let me check.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 57,
+      "english": "That's a shame",
+      "meaning": "That's unfortunate or disappointing",
+      "example": "The concert was cancelled. That's a shame, I was really looking forward to it.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 58,
+      "english": "I hope so",
+      "meaning": "I wish for that to happen",
+      "example": "Will the weather be nice tomorrow? I hope so, we're planning a picnic.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 59,
+      "english": "That's great",
+      "meaning": "That's wonderful or excellent",
+      "example": "I got the job! That's great! Congratulations!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 60,
+      "english": "I'm not interested",
+      "meaning": "I don't want to do or know about that",
+      "example": "Want to watch a horror movie? I'm not interested, thanks.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 61,
+      "english": "I'd love to",
+      "meaning": "I would really like to do that",
+      "example": "Want to join us for dinner? I'd love to!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 62,
+      "english": "I can't wait",
+      "meaning": "I'm very excited and eager for something to happen",
+      "example": "The vacation starts next week. I can't wait!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 63,
+      "english": "That's not fair",
+      "meaning": "That's unjust or unreasonable",
+      "example": "Why does he get to leave early? That's not fair!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 64,
+      "english": "I'm tired",
+      "meaning": "I need rest, I feel sleepy or exhausted",
+      "example": "I worked all day. I'm really tired now.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 65,
+      "english": "I'm hungry",
+      "meaning": "I need to eat",
+      "example": "It's been hours since breakfast. I'm really hungry!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 66,
+      "english": "I'm thirsty",
+      "meaning": "I need to drink something",
+      "example": "After that long walk, I'm really thirsty.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 67,
+      "english": "I'm busy",
+      "meaning": "I have many things to do, I don't have free time",
+      "example": "Can you help me now? Sorry, I'm busy at the moment.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 68,
+      "english": "I'm free",
+      "meaning": "I have time available, I'm not busy",
+      "example": "Are you busy this weekend? No, I'm free. What did you have in mind?",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 69,
+      "english": "I'm ready",
+      "meaning": "I'm prepared to do something",
+      "example": "Are you ready to leave? Yes, I'm ready!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 70,
+      "english": "I'm not ready",
+      "meaning": "I need more time to prepare",
+      "example": "Can we start the meeting? I'm not ready yet, give me five minutes.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 71,
+      "english": "I'm lost",
+      "meaning": "I don't know where I am or how to get somewhere",
+      "example": "I'm trying to find the library, but I'm completely lost.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 72,
+      "english": "I'm confused",
+      "meaning": "I don't understand, I'm uncertain",
+      "example": "The instructions are complicated. I'm a bit confused.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 73,
+      "english": "I'm excited",
+      "meaning": "I'm very happy and enthusiastic about something",
+      "example": "We're going to Paris next month. I'm so excited!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 74,
+      "english": "I'm worried",
+      "meaning": "I'm anxious or concerned about something",
+      "example": "I haven't heard from her in days. I'm really worried.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 75,
+      "english": "I'm happy",
+      "meaning": "I feel good, I'm pleased",
+      "example": "I got accepted to university! I'm so happy!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 76,
+      "english": "I'm sad",
+      "meaning": "I feel unhappy or disappointed",
+      "example": "My friend moved away. I'm really sad about it.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 77,
+      "english": "I'm surprised",
+      "meaning": "Something unexpected happened",
+      "example": "You're here already? I'm surprised you made it so quickly!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 78,
+      "english": "I'm disappointed",
+      "meaning": "I feel let down, something didn't meet my expectations",
+      "example": "The movie wasn't as good as I expected. I'm disappointed.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 79,
+      "english": "I'm proud",
+      "meaning": "I feel satisfied and pleased about an achievement",
+      "example": "I finished my first marathon. I'm really proud of myself!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 80,
+      "english": "I'm embarrassed",
+      "meaning": "I feel awkward or ashamed",
+      "example": "I tripped in front of everyone. I'm so embarrassed!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 81,
+      "english": "I'm nervous",
+      "meaning": "I feel anxious or worried about something",
+      "example": "I have a job interview tomorrow. I'm really nervous!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 82,
+      "english": "I'm relaxed",
+      "meaning": "I feel calm and at ease",
+      "example": "After the vacation, I feel so relaxed.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 83,
+      "english": "I'm stressed",
+      "meaning": "I feel overwhelmed or under pressure",
+      "example": "Work has been really busy lately. I'm so stressed!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 84,
+      "english": "I'm bored",
+      "meaning": "I have nothing interesting to do",
+      "example": "There's nothing to do here. I'm really bored.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 85,
+      "english": "I'm impressed",
+      "meaning": "I'm amazed or admiring something",
+      "example": "You speak five languages? I'm really impressed!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 86,
+      "english": "I'm grateful",
+      "meaning": "I feel thankful and appreciative",
+      "example": "Thanks for helping me move. I'm really grateful!",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 87,
+      "english": "I'm sorry to hear that",
+      "meaning": "I'm sympathetic about your bad news",
+      "example": "My grandmother passed away. I'm sorry to hear that.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 88,
+      "english": "I'm glad to hear that",
+      "meaning": "I'm happy about your good news",
+      "example": "I got the promotion! I'm glad to hear that! Congratulations!",
+      "level": "B1",
+      "category": "agreement"
+    },
+    {
+      "id": 89,
+      "english": "I'm looking for",
+      "meaning": "I'm trying to find something",
+      "example": "I'm looking for a good restaurant around here.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 90,
+      "english": "I'm trying to",
+      "meaning": "I'm attempting to do something",
+      "example": "I'm trying to learn Spanish, but it's difficult.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 91,
+      "english": "I'm used to",
+      "meaning": "I'm familiar with, I'm accustomed to",
+      "example": "I'm used to getting up early for work.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 92,
+      "english": "I'm not used to",
+      "meaning": "I'm not familiar with, it's new for me",
+      "example": "I'm not used to this hot weather. It's much cooler where I'm from.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 93,
+      "english": "I'm good at",
+      "meaning": "I have skill or ability in something",
+      "example": "I'm good at playing the piano, but not so good at singing.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 94,
+      "english": "I'm bad at",
+      "meaning": "I don't have skill in something",
+      "example": "I'm really bad at remembering names.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 95,
+      "english": "I'm interested in",
+      "meaning": "I want to know more about something",
+      "example": "I'm interested in learning about photography.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 96,
+      "english": "I'm not interested in",
+      "meaning": "I don't want to know about something",
+      "example": "I'm not interested in watching sports on TV.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 97,
+      "english": "I'm afraid of",
+      "meaning": "I'm scared of something",
+      "example": "I'm afraid of heights, so I don't like flying.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 98,
+      "english": "I'm fond of",
+      "meaning": "I like something",
+      "example": "I'm really fond of Italian food.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 99,
+      "english": "I'm tired of",
+      "meaning": "I'm bored or frustrated with something",
+      "example": "I'm tired of eating the same thing every day.",
+      "level": "B1",
+      "category": "preferences"
+    },
+    {
+      "id": 100,
+      "english": "I'm proud of",
+      "meaning": "I feel satisfied about someone or something",
+      "example": "I'm really proud of my daughter's achievements.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 101,
+      "english": "I'm ashamed of",
+      "meaning": "I feel embarrassed or guilty about something",
+      "example": "I'm ashamed of how I behaved yesterday.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 102,
+      "english": "I'm capable of",
+      "meaning": "I have the ability to do something",
+      "example": "I'm capable of finishing this project on time.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 103,
+      "english": "I'm aware of",
+      "meaning": "I know about something",
+      "example": "I'm aware of the problems, but I don't know how to fix them.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 104,
+      "english": "I'm not aware of",
+      "meaning": "I don't know about something",
+      "example": "I'm not aware of any changes to the schedule.",
+      "level": "B1",
+      "category": "conversation-starters"
+    },
+    {
+      "id": 105,
+      "english": "I'm sure of",
+      "meaning": "I'm certain about something",
+      "example": "I'm sure of my decision to change careers.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 106,
+      "english": "I'm not sure of",
+      "meaning": "I'm uncertain about something",
+      "example": "I'm not sure of the exact time, but I think it's around 3 PM.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 107,
+      "english": "I'm certain of",
+      "meaning": "I'm completely sure about something",
+      "example": "I'm certain of my answer - it's definitely correct.",
+      "level": "B1",
+      "category": "decision-making"
+    },
+    {
+      "id": 108,
+      "english": "I'm full of",
+      "meaning": "I have a lot of something (usually energy, ideas, etc.)",
+      "example": "I'm full of energy today! Let's go for a run.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 109,
+      "english": "I'm out of",
+      "meaning": "I don't have any more of something",
+      "example": "I'm out of milk. I need to go to the store.",
+      "level": "B1",
+      "category": "casual"
+    },
+    {
+      "id": 110,
+      "english": "I'm in favor of",
+      "meaning": "I support or agree with something",
+      "example": "I'm in favor of the new proposal. It sounds like a good idea.",
+      "level": "B1",
+      "category": "agreement"
+    }
+  ]
+}

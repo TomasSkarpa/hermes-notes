@@ -3,7 +3,7 @@ export interface Phrase {
   english: string;
   meaning: string;
   example: string;
-  level: "B1" | "B2";
+  level: "B1" | "B2" | "C1";
   category: string;
 }
 
@@ -29,7 +29,7 @@ export interface StudySession {
   startTime: string;
   phrasesReviewed: number;
   categoryFilter?: string;
-  levelFilter?: "B1" | "B2";
+  levelFilter?: "B1" | "B2" | "C1";
 }
 
 export interface UserStats {
