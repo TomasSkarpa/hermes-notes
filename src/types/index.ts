@@ -39,3 +39,5 @@ export interface UserStats {
   phrasesLearned: number;
   categoriesProgress: Record<string, number>;
 }
+
+
